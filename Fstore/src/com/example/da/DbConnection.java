@@ -14,9 +14,4 @@ public class DbConnection {
         }
         return connection;
     }
-/*    public static void main(String[] args) throws SQLException, ClassNotFoundException {
-        if (getConnection() != null){
-            System.out.println("success");
-        }
-    }*/
 }
